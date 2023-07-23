@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @billhurt
-- 👀 I’m interested in freelancing, aviation and being financially free enough to spend more time with my family!
-- 🌱 I’m currently learning React
+- 👀 I’m interested in computer programming, aviation, sport, food.. amongst many other things! Check out billhurt.com
+- 🌱 I’m currently learning React/Django
 - 💞️ I’m looking to collaborate on anything that requires HTML/CSS/React/Python/Django skills.
 - 📫 How to reach me by email.. I'm usually stuck in a hotel in some random corner of the world.
 
